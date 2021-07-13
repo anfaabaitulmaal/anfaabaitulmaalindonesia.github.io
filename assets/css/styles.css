@@ -1,0 +1,172 @@
+html, body, * {
+  font-family: Poppins;
+}
+
+.navbar {
+  background: #fff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  min-height: 70px;
+  max-height: 70px;
+  box-shadow: 0 0 20px #eeeeee;
+  z-index: 999;
+}
+
+.bodyne {
+  z-index: 0;
+  margin-top: 121px;
+}
+
+.navbar .navbar-brand {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 51px;
+}
+
+.navbar .navbar-nav {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.btn-berita {
+  font-size: 16px; 
+  font-weight: bold; 
+  letter-spacing: 1.2px;
+}
+
+.btn-success {
+  background-color: #3EECAC;
+  border-radius: .45rem;
+  border: 0;
+}
+
+.btn-success:hover {
+  background-color: #00ffa1;
+}
+
+
+/*Section first*/
+
+.section-first-left, .section-first-right {
+  
+}
+
+.sfl-judul {
+  font-size: 45px; 
+  font-weight: 700; 
+  margin-bottom: 0;
+}
+
+.sfl-subjudul {
+  color: #6F6F6F;
+  font-size: 18px; 
+  font-weight: 600;
+}
+
+.sfl-deskripsi {
+  color: #6F6F6F;
+  font-size: 14px; 
+  font-weight: 400;
+}
+
+.btn-contactme {
+  font-size: 18px; 
+  font-weight: 400;
+}
+
+.sfr-vector {
+  width: 95%;
+}
+
+/*.sfr-logo {
+  position: absolute;
+  width: 348px;
+  left: 10px;
+  top: 208.13px;
+}*/
+
+
+/*Section Second*/
+.ssf-judul {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.ssf-subjudul {
+  color: #888888;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.bg-cover-green {
+  background-color: #e0fdff;
+  border-radius: 10px;
+  overflow: auto
+}
+
+
+/*Section Third*/
+
+.stf-judul {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.stf-subjudul {
+  color: #888888;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.st-card {
+  background: #e0fdff;
+  margin: 0 auto;
+  width: 90%;
+  text-align: center;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+.st-judul {
+  font-size: 18px; 
+  font-weight: 600;
+}
+
+.st-deskripsi {
+  font-size: 14px; 
+  font-weight: 400;
+}
+
+.btn-more {
+  border-radius: 30px; 
+  width: 190px; 
+  height: 37px;
+}
+
+/*Section fourth*/
+
+.sh-card {
+  background: #e0fdff;
+  margin: 0 auto;
+  width: 90%;
+  text-align: center;
+  padding: 20px 0;
+  border-radius: 12px;
+}
+
+.sh-judul {
+  font-size: 22px; 
+  font-weight: 700;
+}
+
+table, td {
+  width: 100px;
+}
